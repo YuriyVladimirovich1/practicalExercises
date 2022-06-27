@@ -1,5 +1,5 @@
 ﻿// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
-void PrintArray(double[] array)
+/* void PrintArray(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -41,4 +41,4 @@ for (int i=0; i<mass.Length; i++)
     }
 }
 double diffMaxMin=maxval-minval;
-Console.WriteLine($"Разность между max {maxval} и min {minval} элементами массива mass равна " + diffMaxMin);
+Console.WriteLine($"Разность между max {maxval} и min {minval} элементами массива mass равна " + diffMaxMin); */

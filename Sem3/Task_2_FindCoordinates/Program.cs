@@ -1,5 +1,5 @@
 ﻿// Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
-Console.Write("Enter sector number: ");
+/* Console.Write("Enter sector number: ");
 int sec = int.Parse(Console.ReadLine());
 if (sec == 1)
 {
@@ -20,4 +20,4 @@ else if (sec == 4)
 else
 {
     Console.WriteLine("Your number is out of permissible range. Please enter an integer number from 1 to 4.");
-}
+} */

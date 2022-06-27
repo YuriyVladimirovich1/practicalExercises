@@ -1,5 +1,5 @@
 ﻿// Написать программу, которая принимает на вход 3 числа и выдает максимальное
-Console.Write("Enter first number: ");
+/* Console.Write("Enter first number: ");
 double number1 = double.Parse(Console.ReadLine());
 Console.Write("Enter second number: ");
 double number2 = double.Parse(Console.ReadLine());
@@ -22,4 +22,4 @@ else
         maxnumber=number2;
     }    
 }
-Console.WriteLine($"Max number is {maxnumber}.");
+Console.WriteLine($"Max number is {maxnumber}."); */

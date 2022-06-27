@@ -2,7 +2,7 @@
 // Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 //------------------------------------------------------------------------------------------------------
 
-Console.Write("Enter a number: ");
+/* Console.Write("Enter a number: ");
 int number = int.Parse(Console.ReadLine());
 Console.WriteLine($"Your number is {number}.");
 
@@ -18,4 +18,4 @@ else
     }
 
     Console.WriteLine($"The third numeral of the number is {number % 10}.");
-}
+} */

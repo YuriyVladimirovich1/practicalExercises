@@ -1,5 +1,5 @@
 ﻿//Задайте массив. Напишите программу, которая определяет, присутствует ли заданное число в массиве.
-void PrintArray(int[] array)
+/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -42,4 +42,4 @@ for (int i = 0; i < mass.Length; i++)
 if (!found)
 {
 Console.WriteLine("Элемент не найден");
-}
+} */

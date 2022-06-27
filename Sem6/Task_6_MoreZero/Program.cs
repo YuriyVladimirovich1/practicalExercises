@@ -1,4 +1,4 @@
-﻿void PrintArray(int[] array)
+﻿/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -27,4 +27,4 @@ for (int i=0; i<arraylen; i++)
     {
         count++;
     }    
-}
+} */

@@ -1,4 +1,4 @@
-﻿void PrintArray(int[] array)
+﻿/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -29,4 +29,4 @@ else if (fiblim==1)
     fib[0]=0;
 }
 
-PrintArray(fib);
+PrintArray(fib); */

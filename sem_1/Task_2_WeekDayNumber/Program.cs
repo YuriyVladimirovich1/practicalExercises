@@ -1,5 +1,5 @@
 ﻿// Написать программу, которая определяет день недели исходя из его номера
-Console.Write("Enter weekday number: ");
+/* Console.Write("Enter weekday number: ");
 int weekday = int.Parse(Console.ReadLine());
 Console.WriteLine($"Your weekday number is {weekday}");
 switch (weekday)
@@ -28,4 +28,4 @@ switch (weekday)
     case >7:
         Console.WriteLine("Your weekday is out of permissible range");
         break;
-}
+} */

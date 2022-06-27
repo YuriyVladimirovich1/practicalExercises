@@ -1,6 +1,6 @@
 ﻿// Напишите программу, которая принимает на вход число и проверяет, является ли оно палиндромом (сразу без привязки к 5-значности).
 // Решение через числа
-Console.Write("Enter an integer number: ");
+/* Console.Write("Enter an integer number: ");
 int num = int.Parse(Console.ReadLine());
 int tmpnum = num;
 int digits = 1;
@@ -30,4 +30,4 @@ while (digits > 1)
     {
         Console.WriteLine($"Your number is {num}. It is a Palidrome");
     }
-}
+} */

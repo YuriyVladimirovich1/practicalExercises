@@ -1,5 +1,5 @@
 ﻿// Написать программу, которая принимает на вход 1 число и выдает является ли оно четным
-Console.Write("Enter integer number: ");
+/* Console.Write("Enter integer number: ");
 int number = int.Parse(Console.ReadLine());
 Console.Write($"Your number is {number}. ");
 
@@ -10,4 +10,4 @@ if (number % 2 == 0)
 else 
 {
     Console.Write("It isn't even.");
-}
+} */

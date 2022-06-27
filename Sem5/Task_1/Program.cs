@@ -1,5 +1,5 @@
 ﻿//Напишите программу замена элементов массива: положительные элементы замените на соответствующие отрицательные, и наоборот.
-void PrintArray(int[] array)
+/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -29,7 +29,7 @@ for (int i = 0; i < mass.Length; i++)
 
 Console.WriteLine();
 Console.WriteLine("Новый массив");
-PrintArray(mass);
+PrintArray(mass); */
 
 
 

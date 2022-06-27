@@ -1,7 +1,7 @@
 ﻿//------------------------------------------------------------------------------------------------------
 // Задача 2. Написать программу, которая принимает на вход 2 числа и выдает какое больше, а какое меньше
 //------------------------------------------------------------------------------------------------------
-Console.Write("Enter first number: ");
+/* Console.Write("Enter first number: ");
 double number1 = double.Parse(Console.ReadLine());
 Console.Write("Enter second number: ");
 double number2 = double.Parse(Console.ReadLine());
@@ -13,11 +13,11 @@ if (number1 < number2)
 else
 {
     Console.WriteLine($"Max number is {number1}, min number is {number2}");
-}
+} */
 //--------------------------------------------------------------------------------------
 // Задача 4. Написать программу, которая принимает на вход 3 числа и выдает максимальное
 //--------------------------------------------------------------------------------------
-Console.Write("Enter first number: ");
+/* Console.Write("Enter first number: ");
 double number1 = double.Parse(Console.ReadLine());
 Console.Write("Enter second number: ");
 double number2 = double.Parse(Console.ReadLine());
@@ -40,11 +40,11 @@ else
         maxnumber=number2;
     }    
 }
-Console.WriteLine($"Max number is {maxnumber}.");
+Console.WriteLine($"Max number is {maxnumber}."); */
 //------------------------------------------------------------------------------------------------
 // Задача 6. Написать программу, которая принимает на вход 1 число и выдает является ли оно четным
 //------------------------------------------------------------------------------------------------
-Console.Write("Enter integer number: ");
+/* Console.Write("Enter integer number: ");
 int number = int.Parse(Console.ReadLine());
 Console.Write($"Your number is {number}. ");
 
@@ -55,11 +55,11 @@ if (number % 2 == 0)
 else 
 {
     Console.Write("It isn't even.");
-}
+} */
 //--------------------------------------------------------------------------------------------------------------------
 // Задача 8. Написать программу, которая на вход принимает число N, а на выходе показывает все четные числа от 1 до N.
 //--------------------------------------------------------------------------------------------------------------------
-Console.Write("Enter a number: ");
+/* Console.Write("Enter a number: ");
 int number = int.Parse(Console.ReadLine());
 
 if (number<2) 
@@ -77,4 +77,4 @@ else
         Counter+=2;
     }
     Console.Write(".");
-}
+} */

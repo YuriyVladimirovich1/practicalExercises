@@ -1,4 +1,4 @@
-﻿void PrintArray(int[] array)
+﻿/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -28,4 +28,4 @@ for (int i=count-1; i>=0; i--)
     tmp = tmp / 2;    
 }
 
-PrintArray(num10ar);
+PrintArray(num10ar); */

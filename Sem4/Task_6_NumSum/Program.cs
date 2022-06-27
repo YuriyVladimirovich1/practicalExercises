@@ -1,5 +1,5 @@
 ﻿//Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
-Console.Write("Введите число: ");
+/* Console.Write("Введите число: ");
 int A = int.Parse(Console.ReadLine());
 
 int digits = 1;
@@ -10,4 +10,4 @@ while (A > 0)
     sum += A % 10;
     A = A / 10;
 }
-Console.Write($"Сумма цифр в числе {tmp} равна {sum}");
+Console.Write($"Сумма цифр в числе {tmp} равна {sum}"); */

@@ -2,7 +2,7 @@
 // Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 // Решение через числа
 //----------------------------------------------------------------------------------------------------------
-Console.Write("Enter an integer 5-digit number: ");
+/* Console.Write("Enter an integer 5-digit number: ");
 int num = int.Parse(Console.ReadLine());
 
 int digitCount = (int)Math.Log10(num) + 1;
@@ -24,13 +24,13 @@ if (num > 9999 && num < 100000)
     }
 }
 else
-Console.Write("Your number is not a 5-digit integer. Please enter a correct number.");
+Console.Write("Your number is not a 5-digit integer. Please enter a correct number."); */
 
 //---------------------------------------------------------------------------------------------------------------------------------
 // Напишите программу, которая принимает на вход число и проверяет, является ли оно палиндромом (сразу без привязки к 5-значности).
 // Решение через числа
 //---------------------------------------------------------------------------------------------------------------------------------
-Console.Write("Enter an integer number: ");
+/* Console.Write("Enter an integer number: ");
 int num = int.Parse(Console.ReadLine());
 int tmpnum = num;
 int digits = 1;
@@ -59,12 +59,12 @@ while (digits > 1)
     {
         Console.WriteLine($"Your number is {num}. It is a Palidrome");
     }
-}
+} */
 
 //-----------------------------------------------------------------------------------------------------------------------
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 //-----------------------------------------------------------------------------------------------------------------------
-Console.Write("Enter first X coordinate: ");
+/* Console.Write("Enter first X coordinate: ");
 double X1 = double.Parse(Console.ReadLine());
 Console.Write("Enter first Y coordinate: ");
 double Y1 = double.Parse(Console.ReadLine());
@@ -77,12 +77,12 @@ double Y2 = double.Parse(Console.ReadLine());
 Console.Write("Enter first Z coordinate: ");
 double Z2 = double.Parse(Console.ReadLine());
 double dist = Math.Sqrt(Math.Pow(X2 - X1, 2) + Math.Pow(Y2 - Y1, 2)+Math.Pow(Z2 - Z1, 2));
-Console.WriteLine($"Distance between your points is (with a precision up to 2 digits): {Math.Round(dist, 2)}");
+Console.WriteLine($"Distance between your points is (with a precision up to 2 digits): {Math.Round(dist, 2)}"); */
 
 //-------------------------------------------------------------------------------------------------
 //  Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 //-------------------------------------------------------------------------------------------------
-Console.Write("Enter a number: ");
+/* Console.Write("Enter a number: ");
 int num = int.Parse(Console.ReadLine());
 int idx = 1;
 Console.WriteLine($"Here we have the cubes for a number series ending with the number {num}: ");
@@ -98,4 +98,4 @@ Console.Write($"{Math.Pow (idx, 3)}.");
 else
 {
     Console.WriteLine($"Your number is out of permissible range. Please enter an integer number between 1 and 2 147 483 647");
-}
+} */

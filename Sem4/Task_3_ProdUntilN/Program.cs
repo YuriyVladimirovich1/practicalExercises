@@ -1,5 +1,5 @@
 ﻿// Напишите программу, которая принимает на вход число N и выдаёт произведение чисел от 1 до N.
-int prod (int prodlim)
+/* int prod (int prodlim)
 {
 if (prodlim<=0)
 {
@@ -19,4 +19,4 @@ else
 Console.Write("Введите число А: ");
 int A = int.Parse(Console.ReadLine());
 
-Console.Write($"Произведение чисел от 0 до {A} равна: {prod(A)}");
+Console.Write($"Произведение чисел от 0 до {A} равна: {prod(A)}"); */

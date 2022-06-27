@@ -1,4 +1,4 @@
-﻿Console.Write("Введите длину первой стороны треугольника: ");
+﻿/* Console.Write("Введите длину первой стороны треугольника: ");
 int len1 = int.Parse(Console.ReadLine());
 Console.Write("Введите длину второй стороны треугольника: ");
 int len2 = int.Parse(Console.ReadLine());
@@ -11,4 +11,4 @@ Console.Write("Такой треугольник не существует.");
 else
 {
     Console.Write("Такой треугольник существует.");
-}
+} */

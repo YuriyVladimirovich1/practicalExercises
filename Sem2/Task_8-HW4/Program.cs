@@ -1,7 +1,7 @@
 ﻿//---------------------------------------------------------------------------------------------------------------------------
 //Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 //---------------------------------------------------------------------------------------------------------------------------
-Console.Write($"Enter a weekdaynumber: ");
+/* Console.Write($"Enter a weekdaynumber: ");
 int WeekdayNumber = int.Parse(Console.ReadLine());
 Console.WriteLine($"Your weekday number is {WeekdayNumber}.");
 if (WeekdayNumber<=7 && WeekdayNumber>=1)
@@ -18,4 +18,4 @@ if (WeekdayNumber<=7 && WeekdayNumber>=1)
 else
 {
     Console.WriteLine("Your number is not a weekday.");
-}
+} */

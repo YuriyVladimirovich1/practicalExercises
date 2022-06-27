@@ -1,5 +1,5 @@
 ﻿// Написать программу, которая принимает из консоли 2 числа и проверяет является ли первое число квадратом второго
-Console.Write("Enter first number: ");
+/* Console.Write("Enter first number: ");
 double Number1 = double.Parse(Console.ReadLine());
 Console.Write("Enter second number: ");
 double Number2 = double.Parse(Console.ReadLine());
@@ -16,3 +16,4 @@ else
 {
     Console.WriteLine("The first number is not a square for the second number");
 }
+ */

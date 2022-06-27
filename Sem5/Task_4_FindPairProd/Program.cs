@@ -1,5 +1,5 @@
 ﻿// Найдите произведение пар чисел в одномерном массиве. Парой считаем первый и последний элемент, второй и предпоследний и т.д. Результат запишите в новом массиве.
-void PrintArray(int[] array)
+/* void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -35,4 +35,4 @@ for (int i = 0; i < mass.Length/2; i++)
 }
 
 Console.Write("Созданный массив пар: ");
-PrintArray(massPair);
+PrintArray(massPair); */
